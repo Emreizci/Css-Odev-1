@@ -1,0 +1,47 @@
+/* Açıklama Satırı */
+
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+
+body {
+    background-color: #FFFFE0;
+    font-family: 'Chivo Mono', monospace;
+
+}
+
+header {
+    text-align: center;
+    color:black;
+    font-size: 40px;
+    
+}
+nav {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+h4 {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+
+#img-article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#image {
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+}
